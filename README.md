@@ -62,13 +62,13 @@ print("Predicted species:", prediction)
 ## 🚀 How to Run
 
 1. Upload dataset (IRIS.csv or iris.xlsx)
-2. Open iris.ipynb in Google Colab or Jupyter Notebook
+2. Open ML_task_1.ipynb in Google Colab or Jupyter Notebook
 3. Run all cells step by step
 4. Train models and evaluate performance
 
 ## 📁 Project Files
 
-* iris.ipynb → Main notebook
+* ML_task_1.ipynb → Main notebook
 * iris_model.pkl → Saved model
 * IRIS.csv / iris.xlsx → Dataset
 * README.md → Project documentation
